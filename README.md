@@ -13,11 +13,6 @@ Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍�
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=TanujBairwa&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🛠 Tech Stack
 **Languages & Core**
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,mysql,powershell)](https://skillicons.dev)
@@ -27,7 +22,6 @@ Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍�
 
 **Data & Design**
 [![My Skills](https://skillicons.dev/icons?i=py,pandas,numpy,matlab,adobe,figma)](https://skillicons.dev)
-*(Note: Using libraries like Pandas/NumPy for Data Science)*
 
 ---
 
@@ -57,9 +51,15 @@ Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍�
 
 ### 🌐 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/tanuj-bairwa-4169a9212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Tanuj Bairwa" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/24998670/tanuj-bairwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Tanuj Bairwa" height="30" width="40" /></a>
-<a href="https://www.quora.com/profile/Tanuj-Bairwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/quora.svg" alt="Tanuj Bairwa" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/tanuj-bairwa-4169a9212/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://stackoverflow.com/users/24998670/tanuj-bairwa" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="https://www.quora.com/profile/Tanuj-Bairwa" target="_blank">
+    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" alt="Quora" />
+  </a>
 </p>
 
 ---
