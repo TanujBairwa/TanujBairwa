@@ -44,9 +44,6 @@ Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍�
 **Weekly Coding Activity**
 [![Tanuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanujBairwa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-**Contribution Snake**
-![snake gif](https://github.com/TanujBairwa/TanujBairwa/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ### 🌐 Connect with Me
