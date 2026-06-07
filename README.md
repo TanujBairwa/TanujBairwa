@@ -1,53 +1,68 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tanuj%20Bairwa&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Tanuj%20Bairwa&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Tanuj Bairwa" />
 </p>
 
-Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍🎓. I bridge the gap between AI research and practical automation. Currently, I'm deep-diving into multi-agent systems and smart productivity tools.
+<p align="center">
+  <strong>B.Tech CSE Student at Manipal University Jaipur 👨‍🎓</strong>
+</p>
 
-- 🔭 **Currently working on:** Multi-agent AI systems & InsightFlow AI.
+<p align="center">
+  <em>Bridging the gap between AI research and practical automation. Currently deep-diving into multi-agent systems and smart productivity tools.</em>
+</p>
+
+---
+
+### 🔍 Quick Overview
+
+- 🔭 **Currently working on:** Multi-agent AI systems & **InsightFlow AI**.
 - 🌱 **Learning:** Advanced Backend Architecture, Docker, and Cloud Deployment.
-- ⚡ **Fun Fact:** I'm obsessed with "fireless cooking"—optimizing nutrition like I optimize code.
+- ⚡ **Fun Fact:** Obsessed with "fireless cooking"—optimizing nutrition like I optimize code.
 - 🥅 **Goal:** Building impactful tech that solves real-world bottlenecks.
 
 ---
 
 ### 🛠 Tech Stack
-**Languages & Core**
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,mysql,powershell)](https://skillicons.dev)
 
-**Frameworks & AI Tools**
-[![My Skills](https://skillicons.dev/icons?i=flask,gcp,docker,arduino,raspberrypi,postman,git,github,githubactions)](https://skillicons.dev)
+**Languages & Core Development**
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,js,html,mysql,powershell)](https://skillicons.dev)
 
-**Data & Design**
-[![My Skills](https://skillicons.dev/icons?i=py,pandas,numpy,matlab,adobe,figma)](https://skillicons.dev)
+**Frameworks, DevOps & AI Tools**
+[![Frameworks & Tools](https://skillicons.dev/icons?i=flask,gcp,docker,arduino,raspberrypi,postman,git,github,githubactions)](https://skillicons.dev)
+
+**Data Science & Design**
+[![Data & Design](https://skillicons.dev/icons?i=py,pandas,numpy,matlab,figma,apple)](https://skillicons.dev)
 
 ---
 
 ### 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **InsightFlow AI** | Market research automation tool for real-time insights. | Python, AI Agents, APIs |
-| **Multi-Agent Systems** | Collaborative AI agents using Google Cloud & ADK. | GCP, Python, Docker |
-| **AI Desktop Assistant** | Voice-controlled automation for PC & Android. | Python, Automation |
-| **Smart Contact Manager** | AI-driven organization for personal/pro contacts. | Flask, MySQL, JS |
+| **💡 InsightFlow AI** | Market research automation tool for real-time insights. | Python, AI Agents, APIs |
+| **🤖 Multi-Agent Systems** | Collaborative AI agents using Google Cloud & ADK. | GCP, Python, Docker |
+| **🎙️ AI Desktop Assistant** | Voice-controlled automation for PC & Android. | Python, Automation |
+| **📅 Smart Contact Manager** | AI-driven organization for personal/pro contacts. | Flask, MySQL, JS |
 
 ---
 
 ### 📊 My Stats & Activity
+
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanujBairwa&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanujBairwa&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TanujBairwa&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" alt="Tanuj's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanujBairwa&theme=tokyonight" alt="Tanuj's GitHub Streak" />
 </p>
 
-**Weekly Coding Activity**
-[![Tanuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TanujBairwa&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanujBairwa&theme=tokyo-night" alt="Tanuj's GitHub Activity Graph" />
+</p>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://www.linkedin.com/in/tanuj-bairwa-4169a9212/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -60,6 +75,7 @@ Hi, I’m **Tanuj**, a B.Tech CSE student at Manipal University Jaipur 👨‍�
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=TanujBairwa&icon=0&color=0" />
+  <img src="https://visitcount.itsvg.in/api?id=TanujBairwa&icon=0&color=0" alt="Visitor Count" />
 </p>
